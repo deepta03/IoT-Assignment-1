@@ -3,6 +3,7 @@
 # Real Time Streams Processing With Kafka, Faust and Machine Learning.
 
 Dataset used: Bike Sharing (UC Irvine, Machine Learning Repository, https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset)
+
 Machine Learning Model: RandomForestRegressor (100 Decision Trees). Following are the model performance metrics:
 
 Out-of-Bag Score: 0.9435871930677215
